@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite name">
+<test name="testname">
+<classes>
+<class name="testingproject.testcases.TC_HomePage">
+</class>
+
+
+</classes>
+
+</test>
+</suite>
